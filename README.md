@@ -1,1 +1,1 @@
-# CV_converter
+# voice2cv
