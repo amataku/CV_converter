@@ -8,6 +8,13 @@ pyaudio = "*"
 librosa = "*"
 numpy = "*"
 jupyter = "*"
+pyworld = "*"
+tensorflow = "*"
+keras = "*"
+scipy = "*"
+wave = "*"
+soundfile = "*"
+dtw = "*"
 
 [requires]
 python_version = "3.5"
