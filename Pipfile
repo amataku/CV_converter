@@ -15,6 +15,7 @@ scipy = "*"
 wave = "*"
 soundfile = "*"
 dtw = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.5"
