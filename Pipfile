@@ -4,7 +4,6 @@ verify_ssl = true
 url = "https://pypi.org/simple"
 
 [packages]
-pyaudio = "*"
 librosa = "*"
 numpy = "*"
 jupyter = "*"
@@ -16,6 +15,7 @@ wave = "*"
 soundfile = "*"
 dtw = "*"
 jupyterthemes = "*"
+pyaudio = "*"
 
 [requires]
 python_version = "3.5"
